@@ -1,0 +1,27 @@
+Dataset Credit
+
+This dataset is provided as a sample and is downloaded via Python from Kaggle. We do not own this dataset. You can access and download the most recent version of this dataset directly from Kaggle using the following link:https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
+
+Dataset Name: Paris 2024 Olympic Summer Games
+Creator: Petro
+Source: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
+
+License: Please review the dataset's license and terms of use on the Kaggle page before using it. We are not responsible for any claims or issues related to the dataset, nor do we claim ownership of it.
+Dataset Credit and Usage Information
+Dataset Reference:
+The dataset used in this Power BI project is a sample that has been downloaded from Kaggle using Python. The original dataset can be accessed and downloaded from Kaggle via the following link:
+
+Dataset Name: Paris 2024 Olympic Summer Games
+Creator: Petro
+Link : https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games
+
+Important Information:
+
+* This project includes only a copy of the dataset, and we do not own or claim any rights to the dataset itself.
+* The dataset is shared as a sample for educational purposes, and any usage of the dataset is subject to the original Kaggle license terms.
+* For details on the license and any specific usage conditions, please review the dataset's license terms on Kaggle.
+* We are not responsible for any claims or issues related to the dataset's usage or licensing.
+
+Disclaimer:
+The cost charged for this Power BI dashboard is solely for the creation of the dashboard and the effort involved. The dataset is used for personal use and is not owned by us. If you wish to use the dataset for other purposes or need updates, please refer to the original source on Kaggle.
+
